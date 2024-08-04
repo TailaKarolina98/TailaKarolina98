@@ -1,6 +1,6 @@
 ### Olá, eu sou Taila Karolina! 👋🏼
 
-- 🔭 Estou cursando ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
+- 🔭 Estou cursando TECNOLOGIA EM BANCO DE DADOS
 - 🌱 Estudando Python e Javascript
 - 😄 Pronouns: ela/dela
 - 📖 Inglês intermediário
