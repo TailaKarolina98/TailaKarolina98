@@ -1,7 +1,8 @@
 ### Olá, eu sou Taila Karolina! 👋🏼
 
-- 🔭 Estou cursando TECNOLOGIA EM BANCO DE DADOS
+- 🔭 Estou cursando TECNÓLOGO EM DESIGN GAME
 - 🌱 Estudando Python e Javascript
+- 🎮 Design UX/UI
 - 😄 Pronouns: ela/dela
 - 📖 Inglês intermediário
 
